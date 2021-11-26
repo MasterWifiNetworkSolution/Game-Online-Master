@@ -7,3 +7,5 @@ https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/Arenao
 # Garena indo singapore
 https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/GarenaMaster.yaml
 
+# Mobile Legends
+https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/MobilelegendsMaster.yaml
