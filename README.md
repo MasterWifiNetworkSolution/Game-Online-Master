@@ -9,3 +9,6 @@ https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/Garena
 
 # Mobile Legends
 https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/MobilelegendsMaster.yaml
+
+# PUBG Mobile
+https://github.com/MasterWifiNetworkSolution/Game-Online-Master/blob/main/PubgMaster.yaml
